@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **9x02@mail.ru**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sRLeJjugNiqlybp4BQKXcv-XPbBOFOKBcg1aukzZH8A/edit?usp=sharing](https://docs.google.com/document/d/1sRLeJjugNiqlybp4BQKXcv-XPbBOFOKBcg1aukzZH8A/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1sRLeJjugNiqlybp4BQKXcv-XPbBOFOKBcg1aukzZH8A/edit?usp=sharing)
 
 - ⚡ Fun fact **Just.. Yes. Young and courage**
 
