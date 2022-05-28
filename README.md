@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00-2&label=Views&color=0eb421&style=flat-square" alt="00-2" /> </p>
 
-- 🔭 I’m currently working on my pet Project [bot START](https://vk.com/starthelper)
+-
 
 - 👯 I’m looking to collaborate on team, which works with neural interfaces [MSU(?), MPTI](https://neurobiology.ru/)
 
