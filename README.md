@@ -5,9 +5,9 @@
 
 -
 
-- 👯 I’m looking to collaborate on team, which works with neural interfaces [MSU(?), MPTI](https://neurobiology.ru/)
+- 👯 I’m looking to collaborate on team of main programming teams in Rus ( Yandex, Sber, Avito )
 
-- 🤝 I’m looking for help with **neural interfaces**
+- 🤝 I’m looking for cognize best practices of coding, archi
 
 - 💬 Ask me about **C++/C**
 
@@ -18,10 +18,4 @@
 - ⚡ Fun fact **Just.. Yes. Young and courage**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=00-2&show_icons=true&theme=radical&locale=en&layout=compact" alt="00-2" /></p>
+<p  align="left"> [@w_koma](http://t.me/w_koma/) [GitHub Pages](https://pages.github.com/)</p>
