@@ -18,4 +18,4 @@
 - ⚡ Fun fact **Just.. Yes. Young and courage**
 
 <h3 align="left">Connect with me:</h3>
-<p  align="left"> [@w_koma](http://t.me/w_koma/)</p>
+<p  align="left"> [w_koma](http://t.me/w_koma/)</p>
